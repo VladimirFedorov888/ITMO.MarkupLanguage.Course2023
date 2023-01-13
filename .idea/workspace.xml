@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="905e4803-3210-499f-bf9c-97cba9fc8433" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab02/code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab02/findings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab03/Ex04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab03/about_buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab03/classification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab04/Ex05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab04/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab06/Ex7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITMO.MarkupLanguage.Course2022.Lab06/images/bmw.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab01/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab01/ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab01/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab01/ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab01/ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ ITMO.MarkupLanguage.Course2022.Lab01/ex3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="537af815-c815-437b-be73-532c56a65ef8" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K8SXQcbK03OaCueLesA1usctrK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "C:/Users/Admin/source/repos/ITMO.MarkupLanguage.Course2022/CSS/ITMO.MarkupLanguage.Course2023.CSS.Lab03",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\CSS\ITMO.MarkupLanguage.Course2023.CSS.Lab03" />
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\CSS\ITMO.MarkupLanguage.Course2023.CSS.Lab01" />
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\CSS\ITMO.MarkupLanguage.Course2023.CSS.Lab01\images" />
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\ITMO.MarkupLanguage.Course2022.Lab06\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\CSS" />
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\HTML\ITMO.MarkupLanguage.Course2023.HTML.Lab06" />
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\HTML" />
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022\ ITMO.MarkupLanguage.Course2022.Lab01" />
+      <recent name="C:\Users\Admin\source\repos\ITMO.MarkupLanguage.Course2022" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="905e4803-3210-499f-bf9c-97cba9fc8433" name="Changes" comment="" />
+      <created>1673354755552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673354755552</updated>
+      <workItem from="1673354756713" duration="2131000" />
+      <workItem from="1673356903755" duration="5567000" />
+      <workItem from="1673539088427" duration="2814000" />
+      <workItem from="1673612672547" duration="4256000" />
+    </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1673358358553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673358358553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+</project>
